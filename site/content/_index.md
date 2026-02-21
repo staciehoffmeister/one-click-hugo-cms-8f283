@@ -9,9 +9,9 @@ intro:
     heading: "What we offer"
     text: "Women's Wealth Coalition is a thought leadership platform for women and next-gen investors navigating major financial transitions and for the professional ecosystem that serves them. We cover the topics that matter most to women and wealth."
 products:
-    - image: img/illustrations-coffee.svg
+    - image: /img/home-middle-left.jpg
       text: "Explore our insights on values-based financial planning — how to align your investments, giving, and legacy with what matters most to you."
-    - image: /img/illustrations-coffee-gear.svg
+    - image: /img/home-middle-right.jpg
       text: "Find guidance on navigating major financial transitions — from inheritance to divorce to retirement — with confidence and clarity."
 values:
     heading: Our Mission
