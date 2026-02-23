@@ -1,6 +1,5 @@
 ---
 title: "Contact"
-logo: "/img/WWC wordmark xhoriz.png"
 contact_entries:
   - heading: Let's Connect
     text: "Whether you're a wealth management professional, attorney, accountant, investor, or someone looking to learn more - welcome and we'd love to hear from you."
