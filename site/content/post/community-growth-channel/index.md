@@ -3,9 +3,8 @@ title: "Community: An Underused Growth Channel"
 date: 2026-02-23T10:00:00.000Z
 description: My experience as a marketing leader and executive coach taught me that the most valuable measure of wealth isn't net worth — it's having quality human connections.
 image: community-growth-channel.jpg
+category: "Values-Based Planning & Stewardship"
 ---
-
-## Values-Based Planning & Stewardship
 
 My experience as a marketing leader and an executive coach taught me that the most valuable measure of wealth isn't net worth, it's having quality human connections. High-net-worth life can be surprisingly isolating. Between caregiving loads and privacy concerns, many women feel they are navigating wealth in a vacuum. Your firm has the opportunity to be the bridge.
 
