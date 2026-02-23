@@ -1,0 +1,19 @@
+{{ define "main" }}
+<div class="ph3 mw7 center">
+  <h1 class="f2 b lh-title mb4">Blog</h1>
+  <div class="flex-ns flex-wrap mhn2-ns">
+    {{ range .Pages }}
+    <div class="ph2-ns w-50-ns mb4">
+      <a href="{{ .Permalink }}" class="no-underline black">
+        {{ with .Params.image }}
+        <img src="{{ . }}" alt="{{ $.Title }}" class="mb3 w-100">
+        {{ end }}
+        <h2 class="f4 b lh-title mb2">{{ .Title }}</h2>
+        <p class="grey-3">{{ .Params.description }}</p>
+        <p class="f6 grey-3">{{ .Date.Format "January 2, 2006" }}</p>
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
