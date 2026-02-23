@@ -1,7 +1,7 @@
 ---
-title: "Your Post Title Here"
+title: "What Makes an Outstanding Financial Advisor"
 date: 2026-02-23T10:00:00.000Z
-description: One or two sentence summary of your post.
+description: Women are not a monolith. While stewardship is expected, being a partner and problem-solver are often not part of the standard of care. 
 image: /img/advisor.jpg
 category: "Values-Based Planning & Stewardship"
 ---
