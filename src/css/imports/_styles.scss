@@ -1,7 +1,6 @@
 ::selection {
   background-color: var(--highlight);
 }
-
 /* Used in the navbar */
 .divider-grey {
   box-shadow: inset 0 -4px 0 var(--grey-1);
@@ -12,4 +11,10 @@
   & ul a:hover, & ul a:focus {
     box-shadow: inset 0 -4px 0 var(--primary);
   }
+}
+a {
+  color: var(--link-color);
+}
+a:hover {
+  color: var(--link-color);
 }
