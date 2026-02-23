@@ -2,7 +2,7 @@
 title: "Community: An Underused Growth Channel"
 date: 2026-02-23T10:00:00.000Z
 description: My experience as a marketing leader and executive coach taught me that the most valuable measure of wealth isn't net worth — it's having quality human connections.
-image: community-growth-channel.jpg
+image: /img/community-growth-channel.jpg
 category: "Values-Based Planning & Stewardship"
 ---
 
