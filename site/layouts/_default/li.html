@@ -1,6 +1,8 @@
 <a href="{{ .RelPermalink }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
   {{ with .Params.image }}
-<img src="/post/{{ $.File.ContentBaseName }}/{{ . }}" alt="{{ $.Title }}" class="w-100 mb2">  <h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
+  <img src="/post/{{ $.File.ContentBaseName }}/{{ . }}" alt="{{ $.Title }}" class="w-100 mb2">
+  {{ end }}
+  <h2 class="f3 b lh-title mb1 primary">{{ .Title }}</h2>
   {{ with .Params.category }}
   <p class="f6 highlight mb1">{{ . }}</p>
   {{ end }}
