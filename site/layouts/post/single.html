@@ -4,6 +4,9 @@
     <img src="/post/community-growth-channel/{{ . }}" alt="{{ $.Title }}" class="w-100 mb3" />
     {{ end }}
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
+    {{ with .Params.category }}
+    <p class="f5 highlight mb3">{{ . }}</p>
+    {{ end }}
     <div class="flex justify-between grey-3">
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
       <p>Read in {{ .ReadingTime }} minutes</p>
