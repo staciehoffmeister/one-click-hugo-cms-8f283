@@ -2,44 +2,40 @@
 title: "Values"
 image: /img/about-jumbotron.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Collaborative Communication"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      Effective communication is a two-way conversation, not a lecture. 
+      Transparent, frequent communication that builds confidence and ensures 
+      a shared vision is the cornerstone of a successful professional relationship.
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+  - heading: "Intentional Community"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+      Wealth can often feel isolating, especially for those managing significant 
+      family or business responsibilities. Bespoke, values-aligned experiences 
+      where individuals can truly connect and share knowledge are rare. By building 
+      a network of peers and experts, we transform the stewardship of wealth from 
+      a solo task into a shared journey.
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+  - heading: "Radical Consistency"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+      Trust is not built in a single annual meeting; it is earned through a 
+      consistent "wealth relationship." A high standard of care must remain steady 
+      across every interaction. Knowing what to expect and being rewarded with 
+      reliability creates the glue of successful professional partnerships.
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+  - heading: "Complete Stewardship"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Successful wealth management requires an integrated, "whole family" approach. 
+      We advocate for a comprehensive view of wealth that includes lifestyle assets, 
+      values, and goals. Showing care and bringing ease to life's biggest transitions 
+      are demonstrations of outstanding service.
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+  - heading: "Multigenerational Readiness"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Preparation and pro-active education are necessary for effective wealth transfer 
+      planning. Lack of direction, family friction, and disappointment can all too often 
+      be the reality for those on the receiving end of an inheritance. From spouses to 
+      heirs, ensuring everyone has the clarity, direction, and skills for the 
+      responsibilities of wealth is critical.
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---
