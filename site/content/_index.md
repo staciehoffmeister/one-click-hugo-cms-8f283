@@ -1,5 +1,5 @@
 ---
-title: "A Community Aligned to Advance Knowledge about Wealth"
+title: "A Community Aligned to Advance Knowledge about Women's Wealth"
 subtitle: Insights for the Wealth Management Ecosystem
 image: /img/home-jumbotron.jpg
 blurb:
