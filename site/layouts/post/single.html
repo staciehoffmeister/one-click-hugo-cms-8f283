@@ -1,5 +1,4 @@
 {{ define "main" }}
-
   <div class="mw6 center ph3 pv4">
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="flex justify-between grey-3">
@@ -8,7 +7,9 @@
     </div>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
-      {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}" class="w-100 mb3" />{{ end }}
+      {{ with .Params.image }}
+      <img src="/post/community-growth-channel/{{ . }}" alt="{{ $.Title }}" class="w-100 mb3" />
+      {{ end }}
       {{ .Content }}
     </div>
   </div>
