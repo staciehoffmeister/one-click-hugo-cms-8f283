@@ -6,7 +6,7 @@ image: /img/advisor.jpg
 category: "Values-Based Planning & Stewardship"
 ---
 
-I can't count how many times I've heard, "what women want is..." and the assumptions that follow: a softer approach to investing, less risk, less jargon, more-hand-holding, etc. Women are not a monolith. Rather than taking the perspective of what women want, I prefer to ask, "what makes a financial advisor outstanding?" While stewardship is expected, being a partner and problem-solver often not part of the standard of care. True partnership would make an advisor outstanding.
+I can't count how many times I've heard, "what women want is..." and the assumptions that follow: a softer approach to investing, less risk, less jargon, more-hand-holding, etc. Women are not a monolith. Rather than taking the perspective of what women want, I prefer to ask, "what makes a financial advisor outstanding?" While stewardship is expected, being a partner and problem-solver often are not part of the standard of care. True partnership would make an advisor outstanding.
 
 The research points to four things that elevate wealth management advisor-client relationships to the status of partnerships: Communication, Community, Consistency, and Complete Service. Practically this means regular check-ins, two-way conversations, advisors who speak in plain language, and services that extend beyond the portfolio such as tax, legal, estate, and life planning. This may surprise some: the research does not say women need women advisors. What matters is how service is delivered.
 
