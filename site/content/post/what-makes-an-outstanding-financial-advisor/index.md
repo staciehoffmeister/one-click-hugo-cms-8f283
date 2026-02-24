@@ -12,7 +12,7 @@ The research points to four things that elevate the wealth management advisor-cl
 
 These aren't preferences that require a complete practice overhaul. There are behaviors that can be trained, systematized, and scaled. There are services that can be offered through outside partners. The firms that build such services into their operating model will have a structural advantage in the market for the next 25 years.
 
-**Engagement Question:**  Which of the four C's (Communication, Community, Consistency, or Complete Service) is your practice's weakness and which is your strenght? Why?
+**Engagement Question:**  Which of the four C's (Communication, Community, Consistency, or Complete Service) is your practice's weakness and which is your strength? Why?
 
 ---
 
