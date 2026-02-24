@@ -22,4 +22,4 @@ Sources:
 ---
 
 **About the Author:**
-About the Author: Stacie Hoffmeister is a strategic business leader with 20+ years driving growth across wealth management, luxury brand management, and mission-driven initiatives. She brings operational discipline, strategic marketing leadership, and cross-sector expertise to growth enterprises. Women’s wealth education and next-generation investor readiness are both personal and market imperatives.
+Stacie Hoffmeister is a strategic business leader with 20+ years driving growth across wealth management, luxury brand management, and mission-driven initiatives. She brings operational discipline, strategic marketing leadership, and cross-sector expertise to growth enterprises. Women’s wealth education and next-generation investor readiness are both personal and market imperatives.
