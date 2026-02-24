@@ -14,6 +14,7 @@ A “Standard of Care Audit” is critical to business integrity. By standardizi
 **Engagement Question:** If a client's heir called your front desk today, would they be treated as a future principal or as a stranger?
 
 Sources:
+
 <sup>1</sup>*["Cerulli Anticipates $124 Trillion in Wealth Will Transfer Through 2048.”](https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048)*
 
 <sup>2</sup>*[Ernst & Young LLP. (2025, May 20). 2025 EY Global Wealth Research Report.](https://www.ey.com/en_gl/wealth-management-research)*
