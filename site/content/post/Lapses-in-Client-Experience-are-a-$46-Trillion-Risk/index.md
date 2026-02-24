@@ -5,11 +5,11 @@ description: A "Standard of Care Audit" is critical to business integrity. By st
 image: /img/trillion-risk.jpg
 category: "Operationalizing the Client Experience"
 ---
-In my experience, I've seen situations where one advisor is a "natural" at building rapport with families. That’s great for that advisor, but it’s a risk for the practice. If your next-gen and woman-friendly experience depends on one person's personality, this may not be a sustainable strategy.  To capture the $46 trillion<sup>1</sup> flowing to Millennials over the next 25 years, the experience must be systematized.
+I’ve seen situations where one advisor is a “natural” at building rapport with families. That’s great for that advisor, but it’s a risk for the practice. If your next-gen and woman-friendly experience depends on personality, this may not be a sustainable strategy. To capture the $46 trillion flowing to Millennials and $40 trillion to widows over the next 25 years<sup>1</sup>, the experience must be systematized.
 
-Consistency is the key. This emerging investor evaluates their advisor connection continuously. Consider full systemization, from meeting schedules to the inclusion of beneficiaries. Only 37%-39%<sup>2</sup> of clients feel prepared for wealth transfers: that gap is your operational opportunity.
+Consistency is the key. This emerging investor evaluates their advisor connection continuously. Consider full systemization, from meeting schedules to the inclusion of beneficiaries. Only 37%-39%<sup>2</sup> of clients feel prepared for wealth transfers: that gap is your operational opportunity.
 
-A "Standard of Care Audit" is critical to business integrity. By standardizing proactive communication such as including daughters in financial reviews - you future-proof your practice against asset erosion.
+A “Standard of Care Audit” is critical to business integrity. By standardizing proactive communication (such as including daughters in financial reviews) you future-proof your practice against asset erosion.
 
 **Engagement Question:** If a client's heir called your front desk today, would they be treated as a future principal or as a stranger?
 
@@ -21,8 +21,4 @@ Sources:
 ---
 
 **About the Author:**
-Stacie Hoffmeister is a strategic business leader with 20+ years driving
-growth across wealth management, luxury brands, and mission-driven
-initiatives. As President and Founder of Hoffmeister Lundman & Co.,
-she brings operational discipline and cross-sector expertise to companies
-navigating complex transitions, with deep expertise in women and wealth.
+About the Author: Stacie Hoffmeister is a strategic business leader with 20+ years driving growth across wealth management, luxury brand management, and mission-driven initiatives. She brings operational discipline, strategic marketing leadership, and cross-sector expertise to growth enterprises. Women’s wealth education and next-generation investor readiness are both personal and market imperatives.
