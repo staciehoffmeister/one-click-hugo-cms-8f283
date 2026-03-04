@@ -16,8 +16,14 @@
 	<link rel="manifest" href="/manifest.json">
 	<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#B76E79">
 	<meta name="theme-color" content="#fff">
-  <!-- Open Graph Hugo https://gohugo.io/templates/internal/#open-graph -->
-  {{ template "_internal/opengraph.html" . }}
+  <!-- Open Graph -->
+  <meta property="og:image" content="https://womenswealthcoalition.com/img/OG.png" />
+  <meta property="og:title" content="{{ if .Title }}{{ .Title }} | {{ end }}{{ $.Site.Title }}" />
+  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}A community aligned to advance knowledge about women&#39;s wealth.{{ end }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://womenswealthcoalition.com/img/OG.png" />
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
