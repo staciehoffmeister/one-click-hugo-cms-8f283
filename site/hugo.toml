@@ -4,9 +4,11 @@ languageLang = "en"
 title = "Women's Wealth Coalition"
 buildFuture = true
 disableKinds = ["taxonomy", "taxonomyTerm"]
+
 [params]
-  images = ["img/OG.png"]
+  images = ["images/OG.png"]
   description = "A community aligned to advance knowledge about women's wealth."
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
