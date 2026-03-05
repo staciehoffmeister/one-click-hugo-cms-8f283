@@ -4,26 +4,28 @@
   {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">
   {{ end }}
-	<meta charset="utf-8">
-	<meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <base href="{{ $.Site.BaseURL }}">
-	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
-	<!-- Favicons -->
-	<link rel="apple-touch-icon" sizes="180x180" href="/img/WWC Icon.png">
-	<link rel="icon" type="image/png" href="/img/WWC Icon.png" sizes="32x32">
-	<link rel="icon" type="image/png" href="/img/WWC Icon.png" sizes="16x16">
-	<link rel="manifest" href="/manifest.json">
-	<link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#000000">
-	<meta name="theme-color" content="#1a1a1a">
+  <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/img/WWC Icon.png">
+  <link rel="icon" type="image/png" href="/img/WWC Icon.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/img/WWC Icon.png" sizes="16x16">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#000000">
+  <meta name="theme-color" content="#1a1a1a">
   <!-- Open Graph -->
-  <meta property="og:image" content="https://womenswealthcoalition.com/img/OG.png" />
+  <meta property="og:image" content="https://womenswealthcoalition.com/images/OG.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
   <meta property="og:title" content="{{ if .Title }}{{ .Title }} | {{ end }}{{ $.Site.Title }}" />
   <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}A community aligned to advance knowledge about women&#39;s wealth.{{ end }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
   <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:image" content="https://womenswealthcoalition.com/img/OG.png" />
+  <meta name="twitter:image" content="https://womenswealthcoalition.com/images/OG.png" />
   {{ if .IsHome }}
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {{ end }}
