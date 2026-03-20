@@ -16,6 +16,7 @@ blurb:
 intro:
     heading: "What you will find here"
     text: ""
+values:
     heading: Our Mission
     text: "An estimated $84 trillion is changing hands in the greatest wealth transfer in history and much of it is heading to women. Women's Wealth Coalition exists to ensure women have the knowledge, community, and trusted guidance to steward that wealth with intention and purpose."
 ---
