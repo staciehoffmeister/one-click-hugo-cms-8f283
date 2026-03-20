@@ -3,6 +3,14 @@
     <h2 class="f3 b lh-title mb2 w-40-l pr5-l">{{.heading}}</h2>
     <div class="w-60-l">
       <p class="mb3">{{.text}}</p>
+      {{ with .text2 }}<p class="mb3">{{ . }}</p>{{ end }}
+      {{ with .text3 }}<p class="mb3">{{ . }}</p>{{ end }}
+      {{ with .text4 }}<p class="mb3">{{ . }}</p>{{ end }}
+      {{ with .text5 }}<p class="mb3">{{ . }}</p>{{ end }}
+      <div class="flex-ns mt3">
+        {{ with .cta1 }}<a href="{{ $.cta1link }}" class="btn raise mr3">{{ . }}</a>{{ end }}
+        {{ with .cta2 }}<a href="{{ $.cta2link }}" class="btn raise">{{ . }}</a>{{ end }}
+      </div>
     </div>
   </div>
 </div>
