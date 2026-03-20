@@ -14,14 +14,8 @@ blurb:
     cta2: "For industry: Understand what needs to change"
     cta2link: "/post"
 intro:
-    heading: "What we offer"
-    text: "Women's Wealth Coalition is a thought leadership platform for women and next-gen investors navigating major financial transitions and for the professional ecosystem that serves them. We cover the topics that matter most to women's wealth."
-products:
-    - image: /img/home-middle-left.jpg
-      text: "Explore collective insights and stay updated on current research. Educate yourself on the trends relevant to women and next gen investors. Find confidence and clairty on what matters most."
-    - image: /img/home-middle-right.jpg
-      text: "Contribute to the conversation with your own insights, research, and thought leadership. Share stories of financial agency and empowerment to inspire others."
-values:
+    heading: "What you will find here"
+    text: ""
     heading: Our Mission
     text: "An estimated $84 trillion is changing hands in the greatest wealth transfer in history and much of it is heading to women. Women's Wealth Coalition exists to ensure women have the knowledge, community, and trusted guidance to steward that wealth with intention and purpose."
 ---
