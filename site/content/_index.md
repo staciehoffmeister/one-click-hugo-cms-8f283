@@ -1,6 +1,6 @@
 ---
-title: "A Community Aligned to Advance Knowledge about Women's Wealth"
-subtitle: Insights for the Wealth Management Ecosystem
+title: "Convening women, the next generation, and the financial industry around how people experience wealth and how the industry must evolve to serve them."
+subtitle: For educational purposes only. Not investment advice.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why a Women's Wealth Coalition?
