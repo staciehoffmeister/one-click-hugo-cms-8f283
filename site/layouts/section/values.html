@@ -1,17 +1,17 @@
 {{ define "main" }}
-
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
-
-<div class="mw7 center ph3 pt4">
-
-  {{ range $index, $element := .Params.values }}
-    {{ if modBool $index 2 }}
-      {{ partial "media-block" $element }}
-    {{ else }}
-      {{ partial "media-block-reverse" $element }}
-    {{ end }}
-  {{ end }}
-
+<div class="mw7 center ph3 pv4">
+  <div class="tc mb4">
+    <img src="/img/logo.png" alt="Women's Wealth Coalition" style="width: 300px; max-width: 100%;">
+  </div>
+  <div class="measure-wide center">
+    <p class="mb3">We are living through one of the most important shifts in modern wealth.</p>
+    <p class="mb3">Over the coming decades, more wealth will move into the hands of women and the next generation. But while ownership is changing, the experience of wealth and the systems built around it are not changing at the same pace.</p>
+    <p class="mb3">This platform exists to convene the people at the center of that shift.</p>
+    <p class="mb3">We bring together women, next-generation wealth holders, and the financial industry to create a more honest, informed, and relevant conversation about what wealth means, how it is experienced, and how financial professionals and institutions need to evolve.</p>
+    <p class="mb3">Our work sits at the intersection of financial education, generational change, and industry transformation. We publish content that helps women and next-gens better understand the realities around wealth while also pushing the industry to better understand the people it serves.</p>
+    <p class="mb3">We believe wealth is not only financial. It is emotional, relational, generational, and deeply shaped by identity and context. We also believe the future of wealth will require more than better products or better messaging. It will require better understanding.</p>
+    <p class="mb3">This is a platform for that conversation.</p>
+  </div>
 </div>
-
 {{ end }}
