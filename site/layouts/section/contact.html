@@ -1,17 +1,15 @@
 {{ define "main" }}
+{{ partial "jumbotron" (dict "imageUrl" "/img/contact-jumbotron.jpg" "title" "Let's Connect") }}
 <div class="ph3 bg-off-white">
-	<div class="center mw6 pv3">
-		<img src="/img/logo.png" alt="Women's Wealth Coalition" class="db center mb4" style="width: 420px; max-width: 100%;">
-		<div class="mb3">
-	        	{{ range .Params.contact_entries }}
-				<div class="mb4">
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
-				</div>
-			{{ end }}
-		</div>
-		{{ .Content }}
-		{{ partial "contact-form" . }}
-	</div>
+  <div class="center mw6 pv4">
+    <p class="mb3">To help shape a future where:</p>
+    <ul class="mb4 list pl0">
+      <li class="mb2 flex items-start"><img src="/img/WWC%20favicon.png" style="width: 16px; height: 16px; margin-right: 10px; margin-top: 4px;">women feel more confident navigating financial decisions</li>
+      <li class="mb2 flex items-start"><img src="/img/WWC%20favicon.png" style="width: 16px; height: 16px; margin-right: 10px; margin-top: 4px;">next-generation wealth holders are better prepared</li>
+      <li class="mb2 flex items-start"><img src="/img/WWC%20favicon.png" style="width: 16px; height: 16px; margin-right: 10px; margin-top: 4px;">the financial industry evolves to meet both with greater clarity and relevance</li>
+    </ul>
+    <p class="mb4">get involved with WWC. The best collaborations start with real conversation. Use the form below to get in touch and a member of the team will respond.</p>
+    {{ partial "contact-form" . }}
+  </div>
 </div>
 {{ end }}
