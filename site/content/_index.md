@@ -4,7 +4,15 @@ subtitle: For educational purposes only. Not investment advice.
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why a Women's Wealth Coalition?
-    text: "Women are inheriting, earning, and managing more wealth than ever before. Yet too many women still feel underserved, overlooked, or intimidated by the financial services industry. Women's Wealth Coalition exists to change that by providing insights, resources, and community for women who want their wealth to reflect who they are."
+    text: "Wealth is shifting to women and the next generation, but the systems, conversations, and industry structures around wealth have not kept pace."
+    text2: "Women are inheriting, earning, and managing more wealth than ever before, yet too many still feel underserved, overlooked, or unengaged by the financial services industry."
+    text3: "The next generation is taking on wealth too, along with the responsibility of stewarding family legacies. Their values, expectations, and commitment to impact often do not align with traditional advisory models."
+    text4: "When systems lag behind structural change, coalitions are what drive alignment."
+    text5: "This platform brings women, the next generation, and the financial industry into conversation about what wealth means now and how the industry must evolve in response."
+    cta1: "For readers: Explore the conversation"
+    cta1link: "/post"
+    cta2: "For industry: Understand what needs to change"
+    cta2link: "/post"
 intro:
     heading: "What we offer"
     text: "Women's Wealth Coalition is a thought leadership platform for women and next-gen investors navigating major financial transitions and for the professional ecosystem that serves them. We cover the topics that matter most to women's wealth."
