@@ -17,18 +17,15 @@
   <link rel="mask-icon" href="/img/safari-pinned-tab.svg" color="#000000">
   <meta name="theme-color" content="#1a1a1a">
   <!-- Open Graph -->
-  <meta property="og:image" content="https://womenswealthcoalition.com/img/OG.png" />
+  <meta property="og:image" content="{{ if .Params.image }}{{ $.Site.BaseURL }}{{ .Params.image }}{{ else }}https://womenswealthcoalition.com/img/OG.png{{ end }}" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
-  <meta property="og:title" content="{{ if .Title }}{{ .Title }} | {{ end }}{{ $.Site.Title }}" />
-  <meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}A community aligned to advance knowledge about women&#39;s wealth.{{ end }}" />
+  <meta property="og:title" content="{{ if .Params.ogTitle }}{{ .Params.ogTitle }}{{ else if .Title }}{{ .Title }} | {{ $.Site.Title }}{{ else }}{{ $.Site.Title }}{{ end }}" />
+  <meta property="og:description" content="{{ if .Params.ogDescription }}{{ .Params.ogDescription }}{{ else if .Description }}{{ .Description }}{{ else }}A community aligned to advance knowledge about women&#39;s wealth.{{ end }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
   <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:image" content="https://womenswealthcoalition.com/img/OG.png" />
-  {{ if .IsHome }}
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  {{ end }}
+  <meta name="twitter:image" content="{{ if .Params.image }}{{ $.Site.BaseURL }}{{ .Params.image }}{{ else }}https://womenswealthcoalition.com/img/OG.png{{ end }}" />
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-X07D865SGQ"></script>
   <script>
