@@ -44,7 +44,7 @@ The gap between the transfer and the readiness is where most of the real work ha
 
 The next post in this series looks at who sits at the center of that gap: women and next-gen heirs, and what the data tells us about how unprepared many of them actually are.
 
-> **Engagement Question:** When you hear "Great Wealth Transfer," what comes to mind first: opportunity, responsibility, or uncertainty?
+**Engagement Question:** When you hear "Great Wealth Transfer," what comes to mind first: opportunity, responsibility, or uncertainty?
 
 ---
 
