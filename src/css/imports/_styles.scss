@@ -21,3 +21,16 @@ a:hover {
 a sup {
   color: #708090;
 }
+.cms ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.cms ul li {
+  padding-left: 30px;
+  margin-bottom: 8px;
+  background-image: url('/img/WWC favicon.png');
+  background-repeat: no-repeat;
+  background-position: left center;
+  background-size: 16px 16px;
+}
