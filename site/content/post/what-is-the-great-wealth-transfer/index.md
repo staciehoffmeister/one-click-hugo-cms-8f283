@@ -52,7 +52,7 @@ The next post in this series looks at who sits at the center of that gap: women 
 
 <sup>1</sup> *Cerulli Associates, "Cerulli Anticipates $124 Trillion in Wealth Will Transfer Through 2048," December 5, 2024.*
 
-<sup>2</sup> *EY, "New EY report finds investors' confidence wanes as digital assets surge amid unprecedented wealth transfer challenges," May 20, 2025.*
+<sup>2</sup> *EY, "New EY Report Finds Investors' Confidence Wanes as Digital Assets Surge Amid Unprecedented Wealth Transfer Challenges," May 20, 2025.*
 
 ---
 
