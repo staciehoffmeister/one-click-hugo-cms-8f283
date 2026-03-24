@@ -26,6 +26,14 @@ a sup {
   padding-left: 0;
 }
 
+Replace the block with:
+
+```css
+.cms ul {
+  list-style: none;
+  padding-left: 0;
+}
+
 .cms ul li {
   padding-left: 1.5rem;
   margin-bottom: 8px;
@@ -33,11 +41,8 @@ a sup {
 }
 
 .cms ul li::before {
-  content: '\25C6';
+  content: '—';
   color: #B76E79;
-  font-size: 10px;
   position: absolute;
   left: 0;
-  top: 50%;
-  transform: translateY(-50%);
 }
