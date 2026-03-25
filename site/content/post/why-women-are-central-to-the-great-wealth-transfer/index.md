@@ -4,7 +4,7 @@ date: 2026-03-24T10:00:00.000Z
 description: "Women are central to the Great Wealth Transfer as wealth, responsibility, and decision-making power increasingly shift into their hands."
 image: /img/women-central-great-wealth-transfer.jpg
 category: "The Great Wealth Transfer"
-Part 2 of a series on why the Great Wealth Transfer is as much about readiness as inheritance.
+subtitle: "Part 2 of a series on why the Great Wealth Transfer is as much about readiness as inheritance."
 slug: "why-women-are-central-to-the-great-wealth-transfer"
 keywords:
   - "women great wealth transfer"
