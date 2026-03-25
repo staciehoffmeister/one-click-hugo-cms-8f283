@@ -60,6 +60,7 @@ Preparation is not a one-time conversation. It is an ongoing investment in the p
 <sup>1</sup> *[Cerulli Associates, "Cerulli Anticipates $124 Trillion in Wealth Will Transfer Through 2048," December 5, 2024.](https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048)*
 
 <sup>2</sup> *[UBS, "UBS Survey Shows Wealthy Women, and the Next Generation, Feel Unprepared for the Great Wealth Transfer," May 7, 2025.](https://www.ubs.com/global/en/media/display-page-ndp/en-20250507-own-your-worth-report.html)*
+
 ---
 
 **About the Author:**
