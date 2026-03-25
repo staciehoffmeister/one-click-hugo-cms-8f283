@@ -4,6 +4,7 @@ date: 2026-03-24T10:00:00.000Z
 description: "Women are central to the Great Wealth Transfer as wealth, responsibility, and decision-making power increasingly shift into their hands."
 image: /img/women-central-great-wealth-transfer.jpg
 category: "The Great Wealth Transfer"
+Part 2 of a series on why the Great Wealth Transfer is as much about readiness as inheritance.
 slug: "why-women-are-central-to-the-great-wealth-transfer"
 keywords:
   - "women great wealth transfer"
@@ -61,9 +62,9 @@ The meaningful question is whether families and financial firms are ready to sup
 
 **Sources**
 
-<sup>1</sup> *McKinsey and Company, "The New Face of Wealth: The Rise of the Female Investor," May 8, 2025.*
+<sup>1</sup> *[McKinsey and Company, "The New Face of Wealth: The Rise of the Female Investor," May 8, 2025.](https://www.mckinsey.com/industries/financial-services/our-insights/the-new-face-of-wealth-the-rise-of-the-female-investor).*
 
-<sup>2</sup> *UBS, "UBS Survey Shows Wealthy Women, and the Next Generation, Feel Unprepared for the Great Wealth Transfer," May 7, 2025.*
+<sup>2</sup> *[UBS, "UBS Survey Shows Wealthy Women, and the Next Generation, Feel Unprepared for the Great Wealth Transfer," May 7, 2025.](https://www.ubs.com/global/en/media/display-page-ndp/en-20250507-own-your-worth-report.html)*
 
 ---
 
