@@ -48,7 +48,7 @@ The next post in this series looks at who sits at the center of that gap: women 
 
 ---
 
-**Footnotes**
+**Sources**
 
 <sup>1</sup> *Cerulli Associates, "Cerulli Anticipates $124 Trillion in Wealth Will Transfer Through 2048," December 5, 2024.*
 
