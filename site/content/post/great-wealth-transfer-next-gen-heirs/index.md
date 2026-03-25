@@ -47,20 +47,19 @@ The Great Wealth Transfer matters because it will not only change who holds weal
 
 Most wealth management firms offer some version of heir preparation: an article series, a checklist, a family meeting guide. The advice is generally sound. Talk to your heirs early and often. Align on values. Involve them before decisions become urgent. But a checklist is not a curriculum. Preparing a steward requires something closer to an apprenticeship: structured learning, trusted mentors, ongoing coaching, financial education, and a community of peers who are navigating the same terrain.
 
-Firms like In Three Generations have built a dedicated model around exactly this, offering family wealth stewardship resources including peer groups for rising heirs. That kind of infrastructure matters. And while the details of managing significant wealth are specific, the underlying skills of financial confidence, communication, and values-based decision-making are learnable and applicable at any wealth level.
+Firms like [In Three Generations](https://www.inthreegenerations.com/) have built a dedicated model around exactly this, offering family wealth stewardship resources including peer groups for rising heirs. That kind of infrastructure matters. And while the details of managing significant wealth are specific, the underlying skills of financial confidence, communication, and values-based decision-making are learnable and applicable at any wealth level.
 
 Preparation is not a one-time conversation. It is an ongoing investment in the people who will carry what you built forward.
 
-> **Engagement Question:** Are next-gen heirs in your family being prepared for future financial leadership, or simply expected to step into it when the time comes?
+**Engagement Question:** Are next-gen heirs in your family being prepared for future financial leadership, or simply expected to step into it when the time comes?
 
 ---
 
 **Sources**
 
-<sup>1</sup> *Cerulli Associates, "Cerulli Anticipates $124 Trillion in Wealth Will Transfer Through 2048," December 5, 2024.*
+<sup>1</sup> *[Cerulli Associates, "Cerulli Anticipates $124 Trillion in Wealth Will Transfer Through 2048," December 5, 2024.](https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048)*
 
-<sup>2</sup> *UBS, "UBS Survey Shows Wealthy Women, and the Next Generation, Feel Unprepared for the Great Wealth Transfer," May 7, 2025.*
-
+<sup>2</sup> *[UBS, "UBS Survey Shows Wealthy Women, and the Next Generation, Feel Unprepared for the Great Wealth Transfer," May 7, 2025.](https://www.ubs.com/global/en/media/display-page-ndp/en-20250507-own-your-worth-report.html)*
 ---
 
 **About the Author:**
