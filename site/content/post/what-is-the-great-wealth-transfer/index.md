@@ -4,6 +4,7 @@ date: 2026-03-24T10:00:00.000Z
 description: The Great Wealth Transfer is reshaping who holds wealth, who makes financial decisions, and what clients need from wealth management.
 image: /img/great-wealth-transfer.jpg
 category: "The Great Wealth Transfer"
+subtitle: "Part 1 of a series on why the Great Wealth Transfer is as much about readiness as inheritance."
 slug: "great-wealth-transfer-wealth-management-shift"
 keywords:
   - "what is the great wealth transfer"
@@ -50,9 +51,10 @@ The next post in this series looks at who sits at the center of that gap: women 
 
 **Sources**
 
-<sup>1</sup> *Cerulli Associates, "Cerulli Anticipates $124 Trillion in Wealth Will Transfer Through 2048," December 5, 2024.*
+<sup>1</sup> *[Cerulli Associates, "Cerulli Anticipates $124 Trillion in Wealth Will Transfer Through 2048," December 5, 2024.](https://www.cerulli.com/press-releases/cerulli-anticipates-124-trillion-in-wealth-will-transfer-through-2048)*
 
-<sup>2</sup> *EY, "New EY Report Finds Investors' Confidence Wanes as Digital Assets Surge Amid Unprecedented Wealth Transfer Challenges," May 20, 2025.*
+<sup>2</sup> *[EY, "New EY Report Finds Investors' Confidence Wanes as Digital Assets Surge Amid Unprecedented Wealth Transfer Challenges," May 20, 2025.](https://www.ey.com/en_gl/wealth-management-research)*
+
 
 ---
 
