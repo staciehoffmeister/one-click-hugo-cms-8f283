@@ -7,6 +7,9 @@
     {{ with .Params.category }}
     <p class="f5 highlight mb3">{{ . }}</p>
     {{ end }}
+    {{ with .Params.subtitle }}
+    <p class="f5 i grey-3 mb3">{{ . }}</p>
+    {{ end }}
     <div class="flex justify-between grey-3">
       <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
       <p>Read in {{ .ReadingTime }} minutes</p>
