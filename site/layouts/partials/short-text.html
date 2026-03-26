@@ -7,10 +7,10 @@
       {{ with .text3 }}<p class="mb3">{{ . }}</p>{{ end }}
       {{ with .text4 }}<p class="mb3">{{ . }}</p>{{ end }}
       {{ with .text5 }}<p class="mb3">{{ . }}</p>{{ end }}
-      <div class="flex-ns mt3">
-        {{ with .cta1 }}<a href="{{ $.cta1link }}" class="btn raise mr3">{{ . }}</a>{{ end }}
-        {{ with .cta2 }}<a href="{{ $.cta2link }}" class="btn raise">{{ . }}</a>{{ end }}
-      </div>
+      <div class="mt3">
+  {{ with .cta1 }}<a href="{{ $.cta1link }}" class="btn raise db mb3">{{ . }}</a>{{ end }}
+  {{ with .cta2 }}<a href="{{ $.cta2link }}" class="btn raise db mb3">{{ . }}</a>{{ end }}
+</div>
     </div>
   </div>
 </div>
