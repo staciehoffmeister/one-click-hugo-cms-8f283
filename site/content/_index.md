@@ -1,6 +1,6 @@
 ---
-title: "Convening women, the next generation, and the financial industry around how people experience wealth and how the industry must evolve to serve them."
-subtitle: For educational purposes only. Not investment advice.
+title: "Where women, the next generation, and the industry meet."
+subtitle: ""
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why a Women's Wealth Coalition?
