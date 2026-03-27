@@ -11,8 +11,8 @@ blurb:
     text5: "This platform brings women, the next generation, and the financial industry into conversation about what wealth means now and how the industry must evolve in response."
     cta1: "For readers: Explore the conversation"
     cta1link: "/post"
-    cta2: "For industry: Understand what needs to change"
-    cta2link: "/post"
+    cta2: "For changemakers: Get involved"
+    cta2link: "/contact"
 intro:
     heading: "What you will find here"
     text: ""
