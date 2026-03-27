@@ -1,6 +1,6 @@
 ---
 title: "Why Women Are Central to the Great Wealth Transfer"
-date: 2026-03-24T10:00:00.000Z
+date: 2026-03-26T12:00:00.000Z
 description: "Women are central to the Great Wealth Transfer as wealth, responsibility, and decision-making power increasingly shift into their hands."
 image: /img/women-central-great-wealth-transfer.jpg
 category: "The Great Wealth Transfer"
