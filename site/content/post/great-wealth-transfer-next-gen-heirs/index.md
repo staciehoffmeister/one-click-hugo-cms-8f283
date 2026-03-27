@@ -1,6 +1,6 @@
 ---
 title: "Why the Great Wealth Transfer Matters for Next-Gen Heirs"
-date: 2026-03-24T10:00:00.000Z
+date: 2026-03-26T11:00:00.000Z
 description: "The Great Wealth Transfer is not just about inherited assets. It is about whether next-gen heirs are prepared for the responsibility that comes with them."
 image: /img/great-wealth-transfer-next-gen-heirs.jpg
 category: "The Great Wealth Transfer"
