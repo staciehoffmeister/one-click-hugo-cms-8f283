@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
-  "Domain": "www.womenswealthcoalition.com",
-  "Id": "ecb69cfb-83a6-49fe-bf77-2e3cae54a347"
-}
