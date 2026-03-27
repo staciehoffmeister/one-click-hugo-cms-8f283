@@ -2,12 +2,24 @@
 {{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Blog") }}
 <div class="mw7 center pt4">
   <ul id="blog-list" class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+      {{ range (.Paginator 10).Pages.ByPublishDate.Reverse }}
           <li class="w-50-ns ph1-ns flex">
             {{ .Render "li"}}
           </li>
       {{ end }}
   </ul>
-  {{ partial "pagination" . }}
+  {{ if gt .Paginator.TotalPages 1 }}
+  <div class="tc pv4">
+    <p class="grey-3 mb3">Page {{ .Paginator.PageNumber }} of {{ .Paginator.TotalPages }}</p>
+    <nav>
+      {{ if .Paginator.HasNext }}
+      <a class="btn raise mr2" href="{{ .Paginator.Next.URL }}">← Previous</a>
+      {{ end }}
+      {{ if .Paginator.HasPrev }}
+      <a class="btn raise" href="{{ .Paginator.Prev.URL }}">Next →</a>
+      {{ end }}
+    </nav>
+  </div>
+  {{ end }}
 </div>
 {{ end }}
