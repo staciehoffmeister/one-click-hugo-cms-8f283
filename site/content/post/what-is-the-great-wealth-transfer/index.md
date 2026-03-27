@@ -1,6 +1,6 @@
 ---
 title: "What Is the Great Wealth Transfer?"
-date: 2026-03-24T10:00:00.000Z
+date: 2026-03-26T13:00:00.000Z
 description: The Great Wealth Transfer is reshaping who holds wealth, who makes financial decisions, and what clients need from wealth management.
 image: /img/great-wealth-transfer.jpg
 category: "The Great Wealth Transfer"
